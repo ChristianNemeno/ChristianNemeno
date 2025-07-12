@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-github pages {
-  a static website for someone in the food business url: [https://ChristianNemeno.github.io/karenderia_ordering_site/]
+## My GitHub Pages Sites
 
-}
-
+- [Karenderia Ordering Site](https://ChristianNemeno.github.io/karenderia_ordering_site/)
 <!--
 **ChristianNemeno/ChristianNemeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
