@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianNemeno&show_icons=true&theme=radium" alt="Christian's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ChristianNemeno&show_icons=true&theme=radium" alt="Christian's GitHub stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNemeno&layout=compact&theme=radium" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChristianNemeno&layout=compact&theme=radium" alt="Top Langs" />
 </p>
