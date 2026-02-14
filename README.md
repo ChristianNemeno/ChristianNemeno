@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./gr.png)
 <h1 align="center">👋 Hello! I'm Christian! 👋</h1>
 <h3 align="center">A developer exploring Deep Learning, Python, and practical problem-solving.</h3>
 <h4 align="center">"Heed my words, Struggler. Soon a rain of blood, the likes of which you cannot imagine, shall fall down upon you. It will be a storm of death. But take heed, Struggler. Struggle, endure, contend. For that alone is the sword of one who defies death. Do not forget these words." <br><br> - Gaiseric</h4>
