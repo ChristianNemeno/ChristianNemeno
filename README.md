@@ -14,10 +14,10 @@
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">
+  <a href="https://www.linkedin.com/in/christian-nemeño-94a4972a5/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com" >
+  <a href="mailto:christiannemeno80@gmail.com" >
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
